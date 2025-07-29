@@ -1,0 +1,26 @@
+Test Cases for Hudl Sign in
+
+Login ->
+* Email
+* Google
+* Facebook
+* Apple
+
+
+Registration -> 
+* Email
+    * Password Verification
+* Google
+* Facebook
+* Apple
+
+Authenticastion ->
+* Non Registered User
+* Incorrect Password
+* Forgot Password
+
+Linking ->
+* Email with:
+    * Google
+    * Facebook
+    * Apple
