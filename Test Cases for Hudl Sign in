@@ -1,7 +1,7 @@
 Test Cases for Hudl Sign in
 
 Login ->
-* Email
+* Email - Go from homepage to login portal
 * Google
 * Facebook
 * Apple
