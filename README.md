@@ -8,7 +8,13 @@ You will see in the features folder a file for login but to show the how to exte
 
 To ensure the tests run smoothly on your local environment/setup please follow the following steps: 
 
-
+1. Navigate to this project within your Terminal
+2. install all requirements within termial with 
+> pip install -r requirements
 
 ## Executing the Tests
+
+To Execute the tests, ensure you have followed the steps above and installed all requirements. Then enter "behave" into your terminal as follows:
+
+> behave
 
