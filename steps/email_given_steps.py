@@ -31,5 +31,3 @@ def step_impl_on_login_page(context):
     print(f"Navigating to login page")
     context.driver.get(LOGIN_PAGE_URL)
     time.sleep(2)  # Wait for page to load
-
-
