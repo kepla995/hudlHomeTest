@@ -2,8 +2,10 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from dotenv import load_dotenv
 import os
 
+# --- Configuration ---
 HOMEPAGE_URL = "https://www.hudl.com"
 
 def before_all(context):
