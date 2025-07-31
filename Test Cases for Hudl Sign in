@@ -1,7 +1,7 @@
 Test Cases for Hudl Sign in
 
 Login ->
-* Email - Go from homepage to login portal
+* Email - Go from homepage to login portal 
 * Google
 * Facebook
 * Apple
@@ -14,12 +14,12 @@ Registration ->
 * Facebook
 * Apple
 
-Authenticastion ->
-* Non Registered User
-* Incorrect Password
-* Forgot Password
+Authentication ->
+* Non Registered User /
+* Incorrect Password /
+* Forgot Password / 
 
-Linking ->
+Account Linking ->
 * Email with:
     * Google
     * Facebook
